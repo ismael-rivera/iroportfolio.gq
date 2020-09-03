@@ -1,0 +1,36 @@
+.bg01 {
+    background-repeat: no-repeat;
+    background: #efe7da;
+}
+
+.bg02 {
+    overflow: visible;
+}
+
+ul.bottom-menu li,
+ul.top-menu li {
+    list-style-type: none;
+    display: inline;
+}
+
+.intro-text {
+    font-family: Myriad Pro;
+    font-size: 16pt;
+}
+
+.header-top {
+    max-height: 150px;
+}
+
+.header-top div {
+    margin-top: 20px;
+}
+
+.webdev-portfolio div.row img{
+    background-color: #fff;
+    margin: 15px;
+}
+
+.porfolio_img {
+	border: 1px solid #000;
+}
