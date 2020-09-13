@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'AvantGardeMdITCTT';
+    src: url('AvantGardeMdITCTTBold.woff2') format('woff2'),
+        url('AvantGardeMdITCTTBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvantGardeMdITCTT';
+    src: url('AvantGardeMdITCTT.woff2') format('woff2'),
+        url('AvantGardeMdITCTT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

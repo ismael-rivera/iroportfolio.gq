@@ -1,4 +1,4 @@
-.bg01 {
+/* .bg01 {
     background-repeat: no-repeat;
     background: #efe7da;
 }
@@ -25,13 +25,7 @@ ul.top-menu li a {
     font-size: 16pt;
 }
 
-.header-top {
-    max-height: 150px;
-}
 
-.header-top div {
-    margin-top: 20px;
-}
 
 .webdev-portfolio div.row img {
     background-color: #fff;
@@ -40,4 +34,12 @@ ul.top-menu li a {
 
 .porfolio_img {
     border: 1px solid #000;
+} */
+.bg01 {
+    background-image: linear-gradient(to right, rgb(253, 134, 92) 8.70588%, rgb(202, 73, 71) 100%);
+    background-repeat: no-repeat;
+}
+
+bg03 {
+    background: #333;
 }

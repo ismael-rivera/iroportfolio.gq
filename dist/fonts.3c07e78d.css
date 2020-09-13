@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'AvantGardeMdITCTT';
+    src: url('/AvantGardeMdITCTTBold.8e9c7bad.woff2') format('woff2'),
+        url('/AvantGardeMdITCTTBold.ca3434a1.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvantGardeMdITCTT';
+    src: url('/AvantGardeMdITCTT.a24b26fb.woff2') format('woff2'),
+        url('/AvantGardeMdITCTT.ee7608be.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/*# sourceMappingURL=/fonts.3c07e78d.css.map */

@@ -1,0 +1,28 @@
+{
+  "name": "ismaelrivera",
+  "version": "1.0.0",
+  "description": "portfolio website 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismael-rivera/iroportfolio.gq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismael-rivera/iroportfolio.gq/issues"
+  },
+  "homepage": "https://github.com/ismael-rivera/iroportfolio.gq#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.10"
+  }
+}
