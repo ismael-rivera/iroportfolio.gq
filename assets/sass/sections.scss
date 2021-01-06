@@ -1,0 +1,28 @@
+#banner{
+	// background: url('../img/test1.svg') no-repeat;
+	overflow: visible;
+	background-size: cover;
+	// @include screen(768px, 1360px) {
+	// 	height: 3000px;
+	// }
+	height: 600px;
+	background-position: 0px 200px;
+}
+#start{
+	// background: url('../img/test1.svg') repeat-y;
+	overflow: visible;
+	background-size: cover;
+	// @include screen(768px, 1360px) {
+	// 	height: 3000px;
+	// }
+	background-position: 0px -400px;
+}
+#portfolio{
+	// background: url('../img/test2.svg') no-repeat;
+	overflow: visible;
+	background-size: cover;
+	// @include screen(768px, 1360px) {
+	// 	height: 3000px;
+	// }
+	background-position: 0px 300px;
+}

@@ -1,0 +1,21 @@
+/* line 1, ../sass/sections.scss */
+#banner {
+  overflow: visible;
+  background-size: cover;
+  height: 600px;
+  background-position: 0px 200px;
+}
+
+/* line 11, ../sass/sections.scss */
+#start {
+  overflow: visible;
+  background-size: cover;
+  background-position: 0px -400px;
+}
+
+/* line 20, ../sass/sections.scss */
+#portfolio {
+  overflow: visible;
+  background-size: cover;
+  background-position: 0px 300px;
+}

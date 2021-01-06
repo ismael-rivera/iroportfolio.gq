@@ -1,0 +1,27 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+/* line 3, ../sass/footer.scss */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* line 7, ../sass/footer.scss */
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+/* line 20, ../sass/footer.scss */
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* line 25, ../sass/footer.scss */
+code {
+  font-size: 80%;
+}
